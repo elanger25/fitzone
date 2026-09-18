@@ -1,0 +1,130 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "key": "dumbbell-10",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: One adjustable dumbbell 10 kg, compact chrome grip and small round black plates with spinlock collars, subtle 10 KG marking.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-ca3b423f-f19e-48df-bfb5-cf0355aaf55d.png"
+    },
+    {
+      "key": "dumbbell-30",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: One heavy adjustable dumbbell 30 kg, thick stack of large black round plates at both ends and knurled steel grip, spinlock collars, subtle 30 KG marking.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-c77b6bf9-c64e-4a6a-bb5b-1afe3c2c26ee.png"
+    },
+    {
+      "key": "barbell-180",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: One Olympic barbell 180 cm, compact straight chrome steel shaft and thick rotating sleeves, diagonal composition fully within frame, no plates.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-7816daeb-1069-46a9-a2b1-ed9e9311cef3.png"
+    },
+    {
+      "key": "kettlebell-8",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: One compact cast iron kettlebell with wide rounded handle, matte black, subtle embossed 8 KG.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-a3ae4d30-e607-4ece-bef8-14394a943947.png"
+    },
+    {
+      "key": "kettlebell-24",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: One large heavy cast iron kettlebell with thick arched handle, matte black, subtle embossed 24 KG, low three quarter view.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-4b3c46fc-2bca-469f-9bc2-e7fd2d48a801.png"
+    },
+    {
+      "key": "bench-flat",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Compact flat weight bench, single level horizontal black padded cushion, simple black steel T shaped feet, three quarter view. No inclined backrest.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-60222f13-e067-4cc6-93d0-cad8216def3d.png"
+    },
+    {
+      "key": "bench-fold",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Foldable home adjustable workout bench black padding, lightweight steel frame with visible folding hinge and locking pin, slightly raised backrest.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-84b52579-e0db-42ab-b19d-8f53ec82854c.png"
+    },
+    {
+      "key": "bench-incline",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Decline abdominal situp bench with black sloping pad and paired foam leg rollers, compact steel frame.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-78fdadce-f47b-47d7-824b-5bacacc74ee2.png"
+    },
+    {
+      "key": "bench-pro",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Heavy duty professional flat weight bench rated model Pro 300, very thick black padding, wide reinforced steel frame and transport wheels. Distinct robust construction.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-9df47a70-4af1-453a-9444-1c99734d95b9.png"
+    },
+    {
+      "key": "bench-adjust",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Adjustable workout bench with separate black seat and backrest set at 45 degrees, five clearly visible adjustment notches in black steel ladder support.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-3857f279-0b00-495c-96b6-ee54758625da.png"
+    },
+    {
+      "key": "legpress-compact",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Compact home leg press machine with black padded seat, inclined short sled rails, wide foot plate and weight horns. Entire mechanically plausible machine in frame.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-de62fb3e-f833-4fd0-be18-31c9aef25771.png"
+    },
+    {
+      "key": "pulldown-home",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Home gym lat pulldown tower, single tall narrow black steel frame, overhead wide lat bar suspended by cable, black seat and thigh restraint pads, weight stack.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-e67cccd0-2679-498d-b4f6-0b8b7e0abfc2.png"
+    },
+    {
+      "key": "cable-dual",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Wide professional dual adjustable pulley cable crossover machine, two upright weight stacks joined by top pullup crossbar, silver adjustment tracks and black steel, two handles.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-b4f75ffb-0837-403c-ba64-0a4c9a7dfbaf.png"
+    },
+    {
+      "key": "row-pro",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Dedicated seated low cable row machine, low black padded horizontal bench, two angled foot plates facing a weight stack, low pulley and V grip handle.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-87a1c221-1859-4892-940e-fb20459bd14c.png"
+    },
+    {
+      "key": "cable-home",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Compact single column home cable pulley station, one black weight stack with vertically adjustable pulley and single handle, small freestanding stable base. Not a dual tower.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-d5e995e5-2cb1-444c-b83d-d963ba296740.png"
+    },
+    {
+      "key": "protein-vanilla",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Matte black whey protein 2 kg tub on dark rustic tabletop. Cream and ivory label accents, vanilla flowers and vanilla pods beside scoop of ivory powder. Label WHEY PROTEIN, VANILLA, 2 kg. No chocolate or strawberries.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-ea85c605-8db1-4bb1-ba11-4c8e59e483d5.png"
+    },
+    {
+      "key": "bcaa-lemon",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Matte black BCAA 400 g supplement tub on dark rustic tabletop. Yellow label accents, lemon graphic, fresh lemon halves beside scoop of pale powder. Exact prominent label BCAA, LEMON, 400 g.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-b0f2d0a9-677d-422e-baa3-c17f3c3bf395.png"
+    },
+    {
+      "key": "preworkout-berry",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Small matte black preworkout 300 g tub on dark rustic tabletop. Purple and raspberry label accents, blueberries raspberries blackberries alongside scoop of muted berry pink powder. Exact label PRE-WORKOUT, FOREST BERRIES, 300 g.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-75ba041c-7674-43da-bf22-c3a144201fb7.png"
+    },
+    {
+      "key": "vitamin-120",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Matte black vitamin capsule bottle on dark rustic tabletop, restrained gold and white label, a few pale capsules beside bottle. Exact label D3 + K2 and 120 CAPSULES. No fruit or powder.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-825a814d-80ce-4c30-b004-fea2c60db611.png"
+    },
+    {
+      "key": "leggings-black",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Black compression athletic leggings on adult male fitness model, cropped from waist to bare feet with full garment visible, subtle charcoal flatlock seams, neutral front three quarter stance.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-8130d705-393f-4b6d-b4cf-108003765f6f.png"
+    },
+    {
+      "key": "leggings-blue",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Deep cobalt blue compression athletic leggings on adult male fitness model, cropped from waist to bare feet, full garment visible, subtle matching flatlock seams, relaxed front stance. Clearly blue fabric not black.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-e656a257-2b98-4eff-af7c-d23d9f88d790.png"
+    },
+    {
+      "key": "shorts-black",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Black flexible athletic shorts on adult male fitness model, cropped waist to below knees, full garment visible, elastic waistband, understated slit side pockets, relaxed three quarter stance.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-c4a0efe2-31ff-4f6b-a986-f89df09671d0.png"
+    },
+    {
+      "key": "shorts-gray",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: Medium heather gray flexible athletic shorts on adult male fitness model, cropped waist to below knees, full garment visible, elastic waistband with black drawstring, relaxed front stance. Clearly gray fabric.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-2ce2cb36-ced1-41d6-aefc-82773a1043ac.png"
+    },
+    {
+      "key": "leggings-high",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 premium fitness ecommerce catalog photograph. Photorealistic studio photography, charcoal black seamless background, dark textured floor, soft dramatic side lighting, natural contact shadows, muted premium tones, crisp material textures. Product fully visible, centered with generous margins. No collage, no price, no promotional badge, no watermark, no extraneous text or logos. Subject: High waisted black athletic leggings on adult female fitness model, framed waist to bare feet, full leggings visible including distinctly broad high rise waistband, subtle contoured seams, natural three quarter stance.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-8d97932e-a64d-49e1-a55d-8d073135674e.png"
+    },
+    {
+      "key": "protein-strawberry",
+      "prompt": "Dark studio premium matte black WHEY PROTEIN STRAWBERRY 2 kg tub, strawberry graphics, fresh strawberries and pink powder. No chocolate.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-e585a656-1a52-4a43-a1cf-142a8132afda.png"
+    }
+  ]
+}

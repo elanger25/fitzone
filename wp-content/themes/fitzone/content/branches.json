@@ -1,0 +1,57 @@
+[
+  {
+    "id": "praha",
+    "city": "Praha",
+    "center": "Westfield Chodov",
+    "address": "Roztylská 2321/19",
+    "town": "148 00 Praha 4",
+    "country": "Česko",
+    "lon": 14.4905,
+    "lat": 50.0305,
+    "source": "https://www.westfield.com/cz/czech-republic/chodov/pristup"
+  },
+  {
+    "id": "brno",
+    "city": "Brno",
+    "center": "Galerie Vaňkovka",
+    "address": "Ve Vaňkovce 1",
+    "town": "602 00 Brno",
+    "country": "Česko",
+    "lon": 16.6175,
+    "lat": 49.1887,
+    "source": "https://www.galerie-vankovka.cz/kontakt/"
+  },
+  {
+    "id": "ostrava",
+    "city": "Ostrava",
+    "center": "Forum Nová Karolina",
+    "address": "Jantarová 3344/4",
+    "town": "702 00 Ostrava",
+    "country": "Česko",
+    "lon": 18.2854,
+    "lat": 49.829,
+    "source": "https://forumnovakarolina.cz/moje-karolina-pravidla-akce-laska-co-te-nevytoci/"
+  },
+  {
+    "id": "olomouc",
+    "city": "Olomouc",
+    "center": "Galerie Šantovka",
+    "address": "Polská 1",
+    "town": "779 00 Olomouc",
+    "country": "Česko",
+    "lon": 17.26,
+    "lat": 49.5879,
+    "source": "https://www.galeriesantovka.cz/o-centru/kontakty/"
+  },
+  {
+    "id": "bratislava",
+    "city": "Bratislava",
+    "center": "Eurovea",
+    "address": "Pribinova 8",
+    "town": "Bratislava",
+    "country": "Slovensko",
+    "lon": 17.1218,
+    "lat": 48.1408,
+    "source": "https://eurovea.sk/kontakty"
+  }
+]

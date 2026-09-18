@@ -1,0 +1,33 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "key": "stair-climber",
+      "name": "Schodový trenažér ClimbFit",
+      "price": 29990,
+      "prompt": "Use case: product-mockup. Create one landscape 3:2 photorealistic fitness ecommerce product photograph. Dark charcoal seamless studio background and textured dark floor, soft dramatic side lighting, natural contact shadows, crisp premium black materials matching a high end fitness store catalog. Entire machine fully visible centered in three quarter view with generous margins. No people, logos, text, badges or watermark. Subject: Professional rotating stair climber cardio machine with three broad visible revolving steps, tall black safety handrails on both sides and small console at top. Realistic sturdy stairmill, not a ladder.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-fa04fbcf-22f6-4be0-86cd-39c916d3bbfa.png"
+    },
+    {
+      "key": "elliptical",
+      "name": "Eliptický trenažér EllipticFit",
+      "price": 14990,
+      "prompt": "Use case: product-mockup. Create one landscape 3:2 photorealistic fitness ecommerce product photograph. Dark charcoal seamless studio background and textured dark floor, soft dramatic side lighting, natural contact shadows, crisp premium black materials matching a high end fitness store catalog. Entire machine fully visible centered in three quarter view with generous margins. No people, logos, text, badges or watermark. Subject: Elliptical cross trainer cardio machine, two long foot platforms connected to flywheel housing, two tall moving curved handles and central console, black steel with subtle silver details.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-edae51b7-b53d-41a6-9e61-bc4a7801b39c.png"
+    },
+    {
+      "key": "treadmill",
+      "name": "Běžecký pás RunFit",
+      "price": 19990,
+      "prompt": "Use case: product-mockup. Create one landscape 3:2 photorealistic fitness ecommerce product photograph. Dark charcoal seamless studio background and textured dark floor, soft dramatic side lighting, natural contact shadows, crisp premium black materials matching a high end fitness store catalog. Entire machine fully visible centered in three quarter view with generous margins. No people, logos, text, badges or watermark. Subject: Modern motorized treadmill with long black running belt, two upright supports, front digital console and side handrails, matte black and charcoal frame.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-49d78a0e-af8e-4646-acdc-b7506619e3bd.png"
+    },
+    {
+      "key": "exercise-bike",
+      "name": "Rotoped CycleFit",
+      "price": 9990,
+      "prompt": "Use case: product-mockup. Create one landscape 3:2 photorealistic fitness ecommerce product photograph. Dark charcoal seamless studio background and textured dark floor, soft dramatic side lighting, natural contact shadows, crisp premium black materials matching a high end fitness store catalog. Entire machine fully visible centered in three quarter view with generous margins. No people, logos, text, badges or watermark. Subject: Upright stationary exercise bike with padded adjustable saddle, ergonomic handlebars and compact console, enclosed magnetic resistance flywheel housing and two pedals with straps, black and graphite frame.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-fd575bbf-6a4e-4b5e-a1f2-49b5c2b0a53e.png"
+    }
+  ]
+}

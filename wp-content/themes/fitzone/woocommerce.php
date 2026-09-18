@@ -1,0 +1,1 @@
+<?php if(is_shop() || is_product_taxonomy()) { require get_template_directory().'/catalog.php'; } else { get_header(); ?><main id="main" class="wide standard-content woocommerce-content"><?php woocommerce_content();?></main><?php get_footer(); }

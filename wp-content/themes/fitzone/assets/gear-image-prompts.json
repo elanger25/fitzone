@@ -1,0 +1,85 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "key": "plate-2-5",
+      "name": "Olympijský kotouč 2,5 kg – 50 mm",
+      "price": 249,
+      "category": "cinky-osy",
+      "training": "silovy crossfit",
+      "description": "Samostatný olympijský kotouč o hmotnosti 2,5 kg s otvorem 50 mm. Cena je za 1 kus.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: Single small black rubber coated weight plate with central polished steel 50 mm opening, clear embossed 2.5 KG, standing tilted slightly on dark floor.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-fdf81046-2267-473e-9650-4ff23d9ac3fc.png"
+    },
+    {
+      "key": "plate-5",
+      "name": "Olympijský kotouč 5 kg – 50 mm",
+      "price": 449,
+      "category": "cinky-osy",
+      "training": "silovy crossfit",
+      "description": "Olympijský kotouč 5 kg s úchopy a otvorem 50 mm. Cena je za 1 kus.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: Single black rubber coated tri-grip weight plate, three hand openings and central polished steel 50 mm hole, clear embossed 5 KG, three quarter view.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-4f9142c3-ebce-40d1-9c3b-a4540b2cf30c.png"
+    },
+    {
+      "key": "plate-10",
+      "name": "Bumper kotouč 10 kg – 50 mm",
+      "price": 990,
+      "category": "cinky-osy",
+      "training": "silovy crossfit",
+      "description": "Bumper kotouč o hmotnosti 10 kg pro osy s průměrem nakládací části 50 mm. Cena je za 1 kus.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: Single full diameter black rubber bumper plate, no hand openings, central polished steel 50 mm opening, clear white 10 KG marking and narrow green accent ring, three quarter view.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-3fd34a8b-fa3d-4acf-9cc2-262540be8477.png"
+    },
+    {
+      "key": "plate-20",
+      "name": "Bumper kotouč 20 kg – 50 mm",
+      "price": 1790,
+      "category": "cinky-osy",
+      "training": "silovy crossfit",
+      "description": "Bumper kotouč o hmotnosti 20 kg pro osy s průměrem nakládací části 50 mm. Cena je za 1 kus.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: Single thick heavy black rubber bumper weight plate, no hand openings, polished steel 50 mm center opening, clear white 20 KG marking and narrow blue accent ring, thick sidewall visible.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-ac4931f9-1a0a-4611-869c-e08744a49af0.png"
+    },
+    {
+      "key": "ez-bar",
+      "name": "Olympijská EZ osa 120 cm – 50 mm",
+      "price": 1890,
+      "category": "cinky-osy",
+      "training": "silovy",
+      "description": "Lomená EZ osa o délce 120 cm pro silový trénink. Nakládací části mají průměr 50 mm; kotouče se prodávají samostatně.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: One chrome Olympic EZ curl bar 120 cm long with distinct zigzag bent central knurled grip and thick straight 50 mm sleeves at each end, lying diagonally, entire bar visible, no plates.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-9e67f160-3f31-4295-836b-55d419064361.png"
+    },
+    {
+      "key": "bar-collars",
+      "name": "Rychlouzávěry na olympijskou osu 50 mm – pár",
+      "price": 349,
+      "category": "cinky-osy",
+      "training": "silovy crossfit",
+      "description": "Pár rychlouzávěrů pro zajištění kotoučů na olympijské ose s průměrem nakládací části 50 mm. Balení obsahuje 2 kusy.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: Pair of black quick release Olympic barbell collars with purple locking levers and circular 50 mm inner opening, side by side one open one closed, detailed product closeup.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-7fe21a71-7d11-4df5-8d98-989944be69cf.png"
+    },
+    {
+      "key": "resistance-band",
+      "name": "Odporová guma Power Band – Střední",
+      "price": 299,
+      "category": "doplnky",
+      "training": "silovy crossfit joga",
+      "description": "Uzavřená odporová guma se středním odporem pro posilování, dopomoc při cvicích a mobilitu.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: One continuous purple latex resistance loop band, long thick flat strip loop arranged in loose oval folds on floor, no handles, matte flexible rubber texture.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-06594a94-f889-4e04-958c-50ecdb9fac6e.png"
+    },
+    {
+      "key": "speed-rope",
+      "name": "Rychlostní švihadlo Speed Rope",
+      "price": 399,
+      "category": "doplnky",
+      "training": "kardio crossfit bojove",
+      "description": "Rychlostní švihadlo s tenkým lankem a dvěma rukojeťmi pro kardio, kondiční trénink a CrossFit.",
+      "prompt": "Use case: product-mockup. Generate one landscape 3:2 photorealistic fitness ecommerce catalog photograph. Charcoal black seamless studio backdrop and dark textured floor, soft dramatic side lighting, natural contact shadows, premium crisp material detail. Entire product centered with generous margins. No people, watermark, logos, price or promotional badges. Subject: Speed jump rope with two black knurled metal handles, small purple end caps and thin dark steel cable neatly coiled beside handles, premium closeup.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-e65e8470-44f4-4158-a0ae-b2295955f516.png"
+    }
+  ]
+}

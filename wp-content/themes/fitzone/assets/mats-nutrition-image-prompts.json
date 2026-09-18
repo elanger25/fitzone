@@ -1,0 +1,113 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "key": "mat-purple",
+      "name": "Podložka na jógu 6 mm – Fialová",
+      "price": 590,
+      "category": "podlozky",
+      "training": "joga silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: A purple yoga mat 6 mm thick, partly unrolled showing fine grippy texture, no other objects.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-e0ebf8cd-09d4-4022-90f8-48f5ebc4a4ae.png"
+    },
+    {
+      "key": "mat-black",
+      "name": "Podložka na cvičení 10 mm – Černá",
+      "price": 790,
+      "category": "podlozky",
+      "training": "joga silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: A thick black exercise mat 10 mm thick, rolled at one end with remaining mat flat, pronounced cushioned edge and subtle ribbing.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-1fb1057d-f1c8-446a-b5eb-88152c3a44f4.png"
+    },
+    {
+      "key": "mat-cork",
+      "name": "Korková podložka na jógu 4 mm",
+      "price": 990,
+      "category": "podlozky",
+      "training": "joga",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: A natural tan cork yoga mat 4 mm thick with black rubber underside, one corner gently curled to reveal layers, unrolled, authentic speckled cork texture.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-471cb2cd-8b90-4295-84cb-c34eb37843cf.png"
+    },
+    {
+      "key": "creatine-300",
+      "name": "Kreatin monohydrát 300 g",
+      "price": 449,
+      "category": "vyziva",
+      "training": "silovy crossfit",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Compact matte black supplement tub on dark rustic tabletop, silver white label, small scoop of white powder. Exact large label CREATINE, MONOHYDRATE, 300 g. No fruit.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-37db310a-abc3-45a1-8e86-82f37de9d642.png"
+    },
+    {
+      "key": "creatine-500",
+      "name": "Kreatin monohydrát 500 g",
+      "price": 649,
+      "category": "vyziva",
+      "training": "silovy crossfit",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Wide medium matte black supplement tub on dark rustic tabletop, silver and blue label accents, white powder scoop. Exact large label CREATINE, MONOHYDRATE, 500 g. No fruit. Different wider tub from 300 g version.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-d09b33bd-64fd-43c0-b355-da9ad77f8775.png"
+    },
+    {
+      "key": "whey-chocolate-500",
+      "name": "Whey Protein 500 g – Čokoláda",
+      "price": 499,
+      "category": "vyziva",
+      "training": "silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Small compact black protein tub, dark rustic tabletop, chocolate pieces and cocoa powder scoop. Exact label WHEY PROTEIN, CHOCOLATE, 500 g, bronze brown accents.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-788b977c-0706-44bd-b031-3f85f5dc4c84.png"
+    },
+    {
+      "key": "whey-vanilla-1000",
+      "name": "Whey Protein 1 kg – Vanilka",
+      "price": 899,
+      "category": "vyziva",
+      "training": "silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Medium black protein tub, dark rustic tabletop, vanilla flower and pods, ivory powder scoop. Exact label WHEY PROTEIN, VANILLA, 1 kg, ivory accents.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-7ea063f4-4c65-43e9-a280-6cd60fd03570.png"
+    },
+    {
+      "key": "whey-strawberry-1000",
+      "name": "Whey Protein 1 kg – Jahoda",
+      "price": 899,
+      "category": "vyziva",
+      "training": "silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Medium black protein tub, dark rustic tabletop, fresh strawberries and pale pink powder scoop. Exact label WHEY PROTEIN, STRAWBERRY, 1 kg, red accents. No chocolate.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-78c6342d-d870-4adb-951a-9d33ed99a8f1.png"
+    },
+    {
+      "key": "whey-banana-2000",
+      "name": "Whey Protein 2 kg – Banán",
+      "price": 1690,
+      "category": "vyziva",
+      "training": "silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Large black protein tub, dark rustic tabletop, banana slices and creamy powder scoop. Exact label WHEY PROTEIN, BANANA, 2 kg, yellow accents.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-a36f390f-092a-4e3f-896e-4fac8c1de98b.png"
+    },
+    {
+      "key": "isolate-vanilla-1000",
+      "name": "Whey Isolate 1 kg – Vanilka",
+      "price": 1190,
+      "category": "vyziva",
+      "training": "silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Medium black premium protein isolate tub, dark rustic tabletop, vanilla flower and pods beside white powder scoop. Exact label WHEY ISOLATE, VANILLA, 1 kg, distinct silver and ivory minimalist label.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-5a1e6bc8-5849-4051-8620-0cb0fa77d0f6.png"
+    },
+    {
+      "key": "vegan-chocolate-1000",
+      "name": "Vegan Protein 1 kg – Čokoláda",
+      "price": 990,
+      "category": "vyziva",
+      "training": "silovy",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Matte black resealable standing protein pouch, dark rustic tabletop, chocolate pieces and cocoa powder scoop. Exact label VEGAN PROTEIN, CHOCOLATE, 1 kg, muted green and brown accents.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-0515f322-5db1-496d-907b-3a19a168df94.png"
+    },
+    {
+      "key": "magnesium-90",
+      "name": "Hořčík bisglycinát 90 kapslí",
+      "price": 349,
+      "category": "vyziva",
+      "training": "",
+      "prompt": "Use case: product-mockup. Generate one new landscape 3:2 photorealistic ecommerce product photograph. Match premium fitness catalog: dark charcoal studio background, dark floor, soft dramatic side lighting, natural shadows, crisp realistic materials. Product entirely visible centered with margins, no people, no promotional claims, no badges, no watermark. Subject: Small matte black supplement capsule bottle, dark rustic tabletop, few white capsules beside it. Exact label MAGNESIUM, BISGLYCINATE, 90 CAPSULES, restrained teal silver accents. No fruit.",
+      "path": "/home/erik/.codex/generated_images/01a0ae68-c9e2-7f82-a32d-8b3bab71e2d0/exec-2bea7ff1-de74-4c9d-9961-2408fc18982d.png"
+    }
+  ]
+}
