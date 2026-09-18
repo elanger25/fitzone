@@ -79,3 +79,46 @@ ddev wp db check       # Kontrola databázových tabulek
 ```
 
 Vlastní šablona je v `wp-content/themes/fitzone/`, pluginy v `wp-content/plugins/`.
+
+## Představení e-shopu a screenshoty
+
+FitZone je fitness e-shop s vlastní českou šablonou, katalogem WooCommerce,
+vyhledáváním a filtrováním produktů, košíkem, akčními nabídkami a blogem.
+
+[Otevřít HTML prezentaci na GitHub Pages](https://elanger25.github.io/fitzone/)
+— odkaz bude fungovat po zapnutí Pages podle postupu níže.
+
+[![Úvodní stránka e-shopu FitZone](docs/assets/home.jpg)](https://elanger25.github.io/fitzone/)
+
+| Katalog produktů | Akční nabídky |
+| --- | --- |
+| ![Katalog s filtry](docs/assets/catalog.jpg) | ![Akční produkty](docs/assets/sale.jpg) |
+
+![Blog FitZone](docs/assets/blog.jpg)
+
+### Zveřejnění přes GitHub Pages
+
+Prezentace je samostatná statická stránka v `docs/index.html` s obrázky a CSS
+ve složce `docs/assets/`. Lokálně ji otevřete na https://eshop.ddev.site/docs/
+nebo přímo jako soubor `docs/index.html` v prohlížeči.
+
+1. Odešlete nové soubory na GitHub z kořenové složky projektu:
+
+   ```bash
+   git add docs README.md
+   git commit -m "Add FitZone presentation and screenshots"
+   git push origin main
+   ```
+
+2. V repozitáři otevřete **Settings → Pages**.
+3. V části **Build and deployment** vyberte **Source → Deploy from a branch**.
+4. Nastavte větev **main**, složku **/docs** a klikněte na **Save**.
+5. Po dokončení nasazení bude prezentace dostupná na https://elanger25.github.io/fitzone/.
+
+Oficiální postup: [Nastavení zdroje GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+
+GitHub Pages zobrazuje tuto prezentaci. Samotný WordPress, databázi a nákupní
+funkce je potřeba spustit přes DDEV nebo na hostingu s PHP a databází.
+HTML prezentaci nelze vložit jako funkční stránku přímo do README; proto zde
+najdete screenshoty a odkaz na Pages. Screenshoty zachycují lokální ukázkový
+projekt, včetně demonstračních marketingových údajů z návrhu.
